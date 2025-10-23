@@ -1,5 +1,19 @@
 body{ 
-    background-color: rgba(227, 125, 157, 0.559);
-
-
+    background-color:rgb(224, 121, 184);
+color:rgb(215, 181, 234);
+font - family: 'courier New', Courier, monospace;
+margin: 0px;
+}
+h1{
+color:rgb(200, 241, 241);
+font-size: 40px;
+}
+p{
+  font-size: 25px;  
+}
+header{
+    border-bottom: rgb(136, 96, 211);
+    margin: 2px;
+    padding: 10px;
+    color:rgb(242, 157, 157);
 }
